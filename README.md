@@ -3,7 +3,7 @@
 Создать веб-приложение, которое будет являться аналогом калькулятора iOS
 
 ## Пример
-Примерный вид приложения:
+Примерный вид веб-приложения:
 
 ![Image alt](https://github.com/SunshineIV/iOS-Calculator/raw/main/example.jpg)
 
