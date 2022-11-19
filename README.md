@@ -4,6 +4,7 @@
 
 ## Пример
 Примерный вид приложения:
+
 ![Image alt](https://github.com/SunshineIV/iOS-Calculator/raw/main/example.jpg)
 
  IOS IPhone Calculator by using Html, Css and JavaScript 
