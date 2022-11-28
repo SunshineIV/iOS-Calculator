@@ -22,4 +22,5 @@
 Веб-приложение будет реализовано с помощью HTML, CSS и JavaScript.
 
 Диаграмма: https://github.com/SunshineIV/iOS-Calculator/blob/e0f0daf3a83a1c2f9906676301cf50925f62b020/docs/LR4.png
+
 README https://github.com/SunshineIV/iOS-Calculator/blob/e0f0daf3a83a1c2f9906676301cf50925f62b020/README.md
