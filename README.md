@@ -21,3 +21,6 @@
 
 Веб-приложение будет реализовано с помощью HTML, CSS и JavaScript.
 
+Процессы выполнения проекта: https://github.com/SunshineIV/iOS-Calculator/blob/main/docs/process.md
+
+Команда: https://github.com/SunshineIV/iOS-Calculator/blob/main/docs/team.md
